@@ -1,0 +1,20 @@
+input{
+    height:3vw;
+    font-size:2vw;
+    padding:0.5vw;
+    border:1vw eggshell solid;
+    border: radius 0.1em;
+
+}
+.login-content{
+  width: 80vw;
+  margin-top: 2vw;
+}
+
+.logged-in{
+  display:flex;
+  justify-content:flex-start; 
+  align-items:flex-start;
+  flex-direction:column;
+  margin:1vw;
+}
